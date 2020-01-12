@@ -18,15 +18,17 @@ File descriptions
 Within the download you'll find the following directories and files.
 
 airbnb
-├── airbnb.ipynb
 
-└── data/
+1- airbnb.ipynb
 
-    ├── calendar.csv
+2- data/
+
+calendar.csv
     
-    ├──	listings.csv
+listings.csv
     
-    └── reviews.csv
+reviews.csv
+
 airbnb.ipynb ==> Notebook to investigate trends of bookings on Airbnb in the year 2016.
 
 calendar.csv ==> Booking information of houses.

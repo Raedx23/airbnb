@@ -41,6 +41,7 @@ Results
 
 The most popular house size in Seattle are houses for 6 or 10 persons. Tourist prefer to rent an entire house over a private room and a shared room. Having a strict cancellation policy leads to reduced interest of clients. Seattle is the most popular around the turn of the year.
 
+A summary of the results of the analysis can be found in the Jupyter notebook or in this blog on medium.
 
 Creator
 
